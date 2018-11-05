@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Hey"
+date:   2016-08-20 11:11:11 +0100
+thumbnail: earth.jpg
+---
+
+
+#Heyyyy~
+#Heyyyy!
+
+<figure>
+	<img src="{{ site.baseurl }}/assets/earth.jpg" alt="image">
+	<figcaption>
+		There is nothing on this earth more to be prized than true friendship.
+	</figcaption>
+</figure>
+
